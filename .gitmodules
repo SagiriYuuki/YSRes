@@ -1,0 +1,3 @@
+[submodule "ksy"]
+	path = ksy
+	url = https://github.com/paimooon/DataParser-paimooon.git
