@@ -17,6 +17,6 @@ Place binary files in `YSRes/bin` from the blks using [Studio](https://gitlab.co
 Make pretty character stats output
 
 # Credit
-  partypooper for the original [KaitaiDumper](https://github.com/partypooperarchive/KaitaiDumper)
-  WeedwackerPS for the [DataParser](https://github.com/WeedwackerPS/DataParser)
-  Raz for [Studio](https://gitlab.com/RazTools/Studio)
+- partypooper for the original [KaitaiDumper](https://github.com/partypooperarchive/KaitaiDumper)
+- WeedwackerPS for the [DataParser](https://github.com/WeedwackerPS/DataParser)
+- Raz for [Studio](https://gitlab.com/RazTools/Studio)
